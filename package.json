@@ -1,0 +1,24 @@
+{
+  "name": "flotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elseano/flotest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elseano/flotest/issues"
+  },
+  "homepage": "https://github.com/elseano/flotest#readme",
+  "dependencies": {
+    "noflo": "^0.5.13",
+    "noflo-core": "^0.1.14",
+    "noflo-nodejs": "^0.5.2"
+  }
+}
